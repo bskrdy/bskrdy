@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saikrishna
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Data
 - 🌱 I’m currently working at Infosys
-- 💞️ I’m looking to collaborate on CI/CD Pipeline
-- 📫 You can reach me at saikrishnareddybala@gmail.com
+- 💞️ I’m looking to collaborate on Data and Web Development
+- 📫 You can write to me at saikrishnareddybala@gmail.com
 
 <!---
 bskrdy/bskrdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
