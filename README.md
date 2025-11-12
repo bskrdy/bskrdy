@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikrishna
-- 👀 I’m interested in Data
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently working at Infosys
-- 💞️ I’m looking to collaborate on Data and Web Development
+- 💞️ I’m looking to collaborate on Cloud and DevOps
 - 📫 You can write to me at saikrishnareddybala@gmail.com
 
 <!---
